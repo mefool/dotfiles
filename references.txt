@@ -1,0 +1,7 @@
+https://github.com/xero/dotfiles#tldr
+https://www.gnu.org/software/stow/
+http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
+https://co1ncidence.github.io/posts/some-cool-software/
+https://github.com/dylanaraps/shfm
+https://github.com/antoniosarosi/dotfiles/tree/master/.dwm
+https://github.com/gnotclub/xst

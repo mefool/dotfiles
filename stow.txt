@@ -1,0 +1,5 @@
+# quick guide to stow
+## move config files to dotfiles folder 
+mv ./config ~/dotfiles/config/
+## stow the config folder
+stow config
